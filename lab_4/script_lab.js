@@ -4,6 +4,7 @@
 // @version 1.0
 // @description lab_4
 // @match https://cripto.tiiny.site/
+// @match https://jairo.tiiny.site/
 // @require https://cdnjs.cloudflare.com/ajax/libs/crypto-js/4.2.0/crypto-js.min.js#sha512-a+SUDuwNzXDvz4XrIcXHuCf089/iJAoN4lmrXJg18XnduKK6YlDHNRalv4yd1N40OKI80tFidF+rqTFKGPoWFQ==
 // @author JAIRO_MATATAN
 // @license MIT
